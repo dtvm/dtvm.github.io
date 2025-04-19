@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,DEPORTES TVC 
-http://go.iptvhn.net:25461/live/8098/8098/13169.ts
-#EXTINF:-1,Canal 11 - HON
-http://go.iptvhn.net:25461/live/8098/8098/13132.ts
-#EXTINF:-1,Canal 5 - HON
-http://go.iptvhn.net:25461/live/8098/8098/13145.ts
 #EXTINF:-1,TELECADENA
 http://go.iptvhn.net:25461/live/8098/8098/13285.ts
 #EXTINF:-1,TSI
@@ -13,5 +7,11 @@ http://go.iptvhn.net:25461/live/8098/8098/13293.ts
 http://go.iptvhn.net:25461/live/8098/8098/13222.ts
 #EXTINF:-1,TeleProgreso
 http://go.iptvhn.net:25461/live/8098/8098/244.ts
+#EXTINF:-1,Canal 5 - HON
+http://go.iptvhn.net:25461/live/8098/8098/13145.ts
+#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="US016:Cartoon Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US016CARTOON-NETWORK.png" group-title="USA General",US016:Cartoon Network HD
+http://103.211.103.30:8880/CornellieSanAJong/ux9R6cKTa7/3152
 #EXTINF:-1,Canal VTV HND
 http://go.iptvhn.net:25461/live/8098/8098/13152.ts
+#EXTINF:-1,Canal 11 - HON
+http://go.iptvhn.net:25461/live/8098/8098/13132.ts
