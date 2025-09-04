@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1,TELECADENA
-http://go.iptvhn.net:25461/live/8098/8098/13285.ts
+http://go.iptvhn.net:25461/live/8099/8099/13285.ts
 #EXTINF:-1,TSI
-http://go.iptvhn.net:25461/live/8098/8098/13293.ts
+http://go.iptvhn.net:25461/live/8099/8099/13293.ts
 #EXTINF:-1,HCH
-http://go.iptvhn.net:25461/live/8098/8098/13222.ts
+http://go.iptvhn.net:25461/live/8099/8099/13222.ts
 #EXTINF:-1,TeleProgreso
-http://go.iptvhn.net:25461/live/8098/8098/244.ts
+http://go.iptvhn.net:25461/live/8099/8099/244.ts
 #EXTINF:-1,Canal 5
-http://go.iptvhn.net:25461/live/8098/8098/13145.ts
+http://go.iptvhn.net:25461/live/8099/8099/13145.ts
 #EXTINF:-1,Canal 11
-http://go.iptvhn.net:25461/live/8098/8098/13132.ts
+http://go.iptvhn.net:25461/live/8099/8099/13132.ts
 #EXTINF:-1,Tucktec Folding Kayak
 plugin://plugin.video.youtube/play/?video_id=KioGLIB9mAY
